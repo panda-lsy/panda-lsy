@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGY2NXlzYm13NnZoZXZvMTd1MmMwOW40c3lreW00Y2F4Z3l1eTE2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="190">
 <p><em>Undergraduate student at <a href="https://www.hainnu.edu.cn/">Hainan Normal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Studying Software Engineering in 
- <a href="https://www.niit.com/">NIIT's</a> co-op programme<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ <a href="https://www.niit.com/">NIIT's</a> co-op programme<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
+ <a href="http://www.shengxia-blog.cn/)">My Website(Blog)</a>
 </em></p>
 
 [![GitHub panda-lsy](https://img.shields.io/github/followers/panda-lsy?label=follow&style=social)](https://github.com/panda-lsy)
